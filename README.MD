@@ -7,8 +7,8 @@
 # 📊 Status do GitHub
 <div>
   <a href="https://github.com/Zeref28">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesilva15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilva15&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeref28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeref28&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 

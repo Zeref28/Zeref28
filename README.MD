@@ -3,7 +3,6 @@
 
 🔭 Hoje eu estou trabalhando como Dev. Júnior<br>
 🌱 Estudando PHP com Laravel e Angular<br>
-😄 Pronomes: ele/dele
 
 # 📊 Status do GitHub
 <div>
